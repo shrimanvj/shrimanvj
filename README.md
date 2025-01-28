@@ -5,7 +5,7 @@ I’m a passionate **Computer Science and Engineering** student specializing in 
 ---
 
 ## 🚀 About Me  
-- 🔭 **Currently working on**: [Solana Smart Contracts]  
+- 🔭 **Currently working on**: Blockchain Project 
 - 🌱 **Learning**: Solana programming and Advanced DSA   
 - 📊 **DSA Practice**: Solved **200+ problems** on various platforms  
 - 🤝 **Open to**: Collaborations on blockchain and Web3 projects  
