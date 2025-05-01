@@ -1,81 +1,77 @@
-## Hi , I 'm Shriman Vijay 👋
+# 👋 Hi, I'm Shriman Vijay
 
-I’m a passionate **Computer Science and Engineering** student specializing in **full-stack development** and **blockchain technology**. I enjoy solving complex problems, building innovative projects, and exploring the endless possibilities of Web3.  
+🎓 A passionate **Computer Science and Engineering** student with a deep interest in **full-stack development** and **blockchain technology**. I thrive on solving real-world problems, building innovative applications, and diving into the decentralized future of the web.
 
 ---
 
-## 🚀 About Me  
-- 🔭 **Currently working on**: Blockchain Project 
-- 🌱 **Learning**: Solana programming and Advanced DSA   
-- 📊 **DSA Practice**: Solved **200+ problems** on various platforms  
-- 🤝 **Open to**: Collaborations on blockchain and Web3 projects  
+## 🚀 About Me
+
+- 🔭 **Currently Building**: NFT-based Marksheet DApp & Blockchain-based Medical Doc Storage System  
+- 🌱 **Learning**: Solana Development & Advanced DSA  
+- 🧠 **DSA Practice**: Solved **200+ problems** across platforms  
+- 🤝 **Open To**: Collaborations in Blockchain, Web3, and full-stack projects  
 - ⚡ **Fun Fact**: I love coding as much as I love cricket 🏏  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🏆 Achievements
 
-### Programming Languages  
-![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&color=00599C)  
-![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&color=00599C)  
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)  
-![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&color=000000)  
-![Solidity](https://img.shields.io/badge/Code-Solidity-informational?style=flat&logo=ethereum&color=3C3C3D)  
-
-### Full-Stack Development  
-![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&color=E34F26)  
-![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&color=1572B6)  
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)  
-![React](https://img.shields.io/badge/Frontend-React-informational?style=flat&logo=react&color=61DAFB)  
-![Node.js](https://img.shields.io/badge/Backend-Node.js-informational?style=flat&logo=node.js&color=339933)  
-![Express.js](https://img.shields.io/badge/Backend-Express.js-informational?style=flat&logo=express&color=000000)  
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&color=47A248)  
-
-### Blockchain Tools  
-![Ethers.js](https://img.shields.io/badge/Library-Ethers.js-informational?style=flat&logo=ethereum&color=3C3C3D)  
-![Solana](https://img.shields.io/badge/Blockchain-Solana-informational?style=flat&logo=solana&color=9945FF)  
+- 🥈 **1st Runner-Up** among 200+ teams at **HACKTRON 25** Inter-College Hackathon  
+- 🏆 **Top 5 Finalist** out of 50+ teams for **Smart India Hackathon 2024** – Alumni Web App Development  
+- ✅ **Cleared Round 1** of **HP Power Labs Assessment** on Unstop  
+- 🌟 Contributed to **Hacktoberfest Open Source**  
+- 💼 Completed **Internship at Blockverse Infotech Solutions**  
 
 ---
 
-## 🏆 Achievements  
-- ✅ Completed internship at **Blockverse Infotech Solutions**  
-- 🛠️ Solved **200+ problems** on platforms like LeetCode and HackerRank  
-- 🌟 Contributed to open-source through **Hacktoberfest**  
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cpp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+
+### 🌐 Full-Stack Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### 🔗 Blockchain & Web3 Tools
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-F5DE19?style=flat&logo=ethereum&logoColor=black)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white)
+![Pinata](https://img.shields.io/badge/Pinata-FFCE45?style=flat&logo=pinata&logoColor=black)
 
 ---
 
-## 📈 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrimanvj&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrimanvj&layout=compact&theme=radical)  
+## 📈 GitHub Stats
+
+![Shriman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrimanvj&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrimanvj&layout=compact&theme=radical)
 
 ---
 
-## 🌐 Let's Connect  
+## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shriman-vijay-/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shrimanvijay06@gmail.com)  
-
----
-
-## ⚡ Fun Fact  
-_"Programming isn't about what you know; it's about what you can figure out."_  
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-green-one-85.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shriman-vijay-/)
+[![X](https://img.shields.io/badge/X-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/ShrimanVj)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shrimanvijay06@gmail.com)
 
 ---
 
-### 🚀 Feel free to explore my repositories and connect with me for collaboration!  
+## ⚡ Quote I Live By
 
+> _"Programming isn't about what you know; it's about what you can figure out."_
 
-<!--
-**shrimanvj/shrimanvj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Dive into my projects and feel free to reach out if you'd like to collaborate!
