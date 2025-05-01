@@ -19,12 +19,12 @@
 
 ## 🏆 Achievements
 
-- 🥈 **1st Runner-Up** – HACKTRON 25 (200+ Teams)
-- 🏆 **Top 5 Finalist** – SIH 2024 (Alumni Web App Challenge)
-- ✅ **Qualified Round 1** – HP Power Labs via Unstop
-- 💼 Internship – **Blockverse Infotech Solutions**
-- 🌟 Contributor – **Hacktoberfest Open Source**
-- 📊 Solved **200+ DSA problems** on LeetCode, HackerRank, and others
+- 🥈 **1st Runner-Up** among 200+ teams at **HACKTRON 25** Inter-College Hackathon  
+- 🏆 **Top 5** out of 50+ teams for **Smart India Hackathon 2024** INTERNALS – Alumni Web App Development  
+- ✅ **Cleared Round 1** of **HP Power Labs Assessment** on Unstop  
+- 🌟 Contributed to **Hacktoberfest Open Source**  
+- 💼 Completed **Internship at Blockverse Infotech Solutions**
+- 🧠 **DSA Practice**: Solved **200+ problems** across platforms 
 
 ---
 
